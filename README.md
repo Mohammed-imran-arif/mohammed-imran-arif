@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently looking on **Front End React Developer Job**
 
-- 🌱 I’m currently learning **MERN stack web development**
+- 🌱 I’m currently learning **MERN stack web development at NXTWave CCBP 4.0**
 
 - 💬 Ask me about **react**
 
